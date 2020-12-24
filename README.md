@@ -1,6 +1,9 @@
 Shamsi date extension for phpBB
 <br />
-* compatible with phpBB 3.1 & 3.2
+* هماهنگ سازی با نسخه 3.2 , 3.3
+* تاریخ شمسی در کل تالار گفتگو
+* تنظیم دقیق ساعت به وقت ایران
+* فونت فارسی وزیر برای مرکز مدیریت و قالب انجمن
 <br />
 How to install:<br />
 1- Download the latest release<br />
