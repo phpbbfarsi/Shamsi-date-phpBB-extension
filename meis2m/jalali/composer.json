@@ -4,6 +4,7 @@
 	"description": "Shamsi Date for phpBB",
 	"homepage": "http://www.php-bb.ir",
 	"version": "2.0.0",
+	"keywords": ["phpbb", "shamsi-date", "شمسی", "تاریخ شمسی"],
 	"time": "2021-01-01",
 	"license": "GPL-2.0",
 	"authors": [
@@ -26,9 +27,10 @@
 			"phpbb/phpbb": "3.2.*@dev"
 		},
                 "version-check": {
-                "host": "version.php-bb.ir",
-                "directory": "/",
-                "filename": "shamsi-date.json"
+                "host": "phpbbfarsi.github.io",
+                "directory": "/versions",
+                "filename": "shamsi-date.json",
+				"ssl": true
             }
 	}
 }
